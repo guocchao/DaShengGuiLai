@@ -4,3 +4,4 @@ add new line
 continue to add
 add name
 add age
+add height
